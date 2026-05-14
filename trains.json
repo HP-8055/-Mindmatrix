@@ -1,0 +1,23 @@
+[
+  {
+    "id": "12677",
+    "name": "Intercity Express",
+    "platform": "2",
+    "time": "10:30 AM",
+    "coaches": ["Engine", "General", "Ladies", "S1", "S2", "S3", "S4", "S5", "S6", "General"]
+  },
+  {
+    "id": "16589",
+    "name": "Rani Chennamma Express",
+    "platform": "1",
+    "time": "11:15 AM",
+    "coaches": ["Engine", "General", "S1", "S2", "S3", "B1", "B2", "A1", "Ladies", "General"]
+  },
+  {
+    "id": "16525",
+    "name": "Kanyakumari Express",
+    "platform": "3",
+    "time": "12:00 PM",
+    "coaches": ["Engine", "Ladies", "General", "S1", "S2", "S3", "General"]
+  }
+]
