@@ -20,4 +20,11 @@
     "time": "12:00 PM",
     "coaches": ["Engine", "Ladies", "General", "S1", "S2", "S3", "General"]
   }
+  {
+    "id": "17582",
+    "name": "Basava Express",
+    "platform": "2",
+    "time": "11:45 AM",
+    "coaches": ["Engine", "General", "S1", "S2", "S3", "B1", "B2", "A1", "Ladies", "General"]
+  },
 ]
